@@ -1,7 +1,6 @@
 # 内容：TikTok
-# 数量：13条
+# 数量：11条
 USER-AGENT,TikTok*
-DOMAIN-WILDCARD,*.tiktokv.*
 DOMAIN-KEYWORD,tiktokcdn
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,ibytedtos.com
@@ -12,4 +11,3 @@ DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-SUFFIX,tiktokv.us
