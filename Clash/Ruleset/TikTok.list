@@ -1,5 +1,5 @@
 # 内容：TikTok
-# 数量：11条
+# 数量：13条
 USER-AGENT,TikTok*
 DOMAIN-WILDCARD,*.tiktokv.*
 DOMAIN-KEYWORD,tiktokcdn
